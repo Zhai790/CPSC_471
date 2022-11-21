@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "b4GGYSpksDUOSkO3w4JayVNyo7QPeDVUsNXMVZTlJ0rNLr0TUwuKo94dA5eFCaVPfP6vaIE5tBF992aMMzS/PQ==",
+  "dgSpecHash": "xy+CRZS8H3Gv+YJDsiZJEbsQa17DF8x+rHyoXjPKA/u2PHSSvdkaK7TT/PmNRGPjrqi6ZjOIRl2VLWljLJm4bQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\micha\\Documents\\Projects\\Enterprise_UI\\Enterprise_UI.csproj",
+  "projectFilePath": "C:\\Users\\micha\\Documents\\GitHub\\CPSC_471\\Enterprise_UI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\micha\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\6.0.10\\microsoft.aspnetcore.jsonpatch.6.0.10.nupkg.sha512",
     "C:\\Users\\micha\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\6.0.10\\microsoft.aspnetcore.mvc.newtonsoftjson.6.0.10.nupkg.sha512",

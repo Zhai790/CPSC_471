@@ -498,11 +498,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\micha\\Documents\\Projects\\Enterprise_UI\\Enterprise_UI.csproj",
+      "projectUniqueName": "C:\\Users\\micha\\Documents\\GitHub\\CPSC_471\\Enterprise_UI.csproj",
       "projectName": "Enterprise_UI",
-      "projectPath": "C:\\Users\\micha\\Documents\\Projects\\Enterprise_UI\\Enterprise_UI.csproj",
+      "projectPath": "C:\\Users\\micha\\Documents\\GitHub\\CPSC_471\\Enterprise_UI.csproj",
       "packagesPath": "C:\\Users\\micha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\micha\\Documents\\Projects\\Enterprise_UI\\obj\\",
+      "outputPath": "C:\\Users\\micha\\Documents\\GitHub\\CPSC_471\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\micha\\AppData\\Roaming\\NuGet\\NuGet.Config",
