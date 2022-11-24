@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>CPSC471 Project</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
+</head>
+
+<body>
+    <div id="app" class="container">
+        <h1 class="d-flex justify-content-center">
+            Sailing Club Portal
+        </h1>
+        <nav class="navbar navbar-expand-sm bg-light navbar-dark">
+            <ul class="navbar-nav ms-auto">
+                <li class="nav-item m-1">
+                    <router-link class="btn btn-light btn-outline-dark" to="/home">Home</router-link>
+                </li>
+                <li class="nav-item m-1">
+                    <router-link class="btn btn-light btn-outline-dark" to="/booking">Book Now</router-link>
+                </li>
+                <li class="nav-item m-1">
+                    <router-link class="btn btn-light btn-outline-dark" to="/admin">Admin</router-link>
+                </li>
+            </ul>
+        </nav>
+        <router-view></router-view>
+        
+    </div>
+
+    <script src="variables.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/axios/1.1.3/axios.min.js"></script>
+    <script src="https://unpkg.com/vue@3"></script>
+    <script src="https://unpkg.com/vue-router@4"></script>
+    <script src="booking.js"></script>
+    <script src="home.js"></script>
+    <script src="admin.js"></script>
+    <script src="index.js"></script>
+    <script src="app.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3"
+        crossorigin="anonymous"></script>
+</body>
+
+</html>
