@@ -1,6 +1,6 @@
-public class BoatSailor
+public class Boat
 {
-    public BoatSailor()
+    public Boat()
     {
         public Int Boat_ID { get; set; }
         public String BName { get; set; }
