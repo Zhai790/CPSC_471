@@ -12,19 +12,17 @@ VALUES
 INSERT INTO boatbookingsdb.amenities `Location_No`
 VALUES
 (1),
-(1),
-(2),
 (2);
 
 INSERT INTO boatbookingsdb.swimmingpools `Amenities_ID`, `Num_Lanes`, `poolsize`
 VALUES
 (1, 8, 600),
-(3, 4, 300);
+(2, 4, 300);
 
 INSERT INTO boatbookingsdb.barbeque `Amenities_ID`, `Num_Grills`
 VALUES
-(2, 4),
-(4, 6);
+(1, 4),
+(2, 6);
 
 INSERT INTO boatbookingsdb.boatsailor `License_NO`, `FName`, `LName`, `S_A_Number`, `Street`, `Apt_No`, `Province`, `Zip`
 VALUES
